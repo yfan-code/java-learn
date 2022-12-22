@@ -1,0 +1,9 @@
+#spring:
+#  mvc:
+#    path match:
+#      matching-strategy: ant_path_matcher
+#  rabbitmq:
+#    host: arch
+#    port: 13111
+#    username: ivan
+#    password: root
